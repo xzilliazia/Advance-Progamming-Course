@@ -10,7 +10,7 @@
 
 <h2>INSTALLATION</h2>
 <p >Follow the steps below to run the application in your local development environment (IntelliJ IDEA is recommended).</p>
-<h4><bold>Prerequisites</bold></h4>
+<h4>Prerequisites</h4>
 Ensure you have the following software installed on your system:
 
 - Java Development Kit (JDK) 20+ (The application is written in Java).
@@ -19,8 +19,10 @@ Ensure you have the following software installed on your system:
 
 <h3>Instalation Steps</h3>
 1. Clone the Repository: Open your terminal or Git Bash and clone the project repository:
-<br>`git clone [YOUR_REPOSITORY_ADDRESS]
-cd simple-restaurant-ordering`</br>
+<br>
+`git clone [YOUR_REPOSITORY_ADDRESS]
+cd simple-restaurant-ordering`
+</br>
 2. Open in IntelliJ IDEA: Open IntelliJ IDEA, select Open, and navigate to the project folder you just cloned.
 3. Run the Application:
 * Locate the main file: App.java (src/main/java/App.java).
