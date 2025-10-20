@@ -19,10 +19,7 @@ Ensure you have the following software installed on your system:
 
 <h3>Instalation Steps</h3>
 1. Clone the Repository: Open your terminal or Git Bash and clone the project repository:
-<br>
-`git clone [YOUR_REPOSITORY_ADDRESS]
-cd simple-restaurant-ordering`
-</br>
+`git clone [YOUR_REPOSITORY_ADDRESS]cd simple-restaurant-ordering`<br>
 2. Open in IntelliJ IDEA: Open IntelliJ IDEA, select Open, and navigate to the project folder you just cloned.
 3. Run the Application:
 * Locate the main file: App.java (src/main/java/App.java).
